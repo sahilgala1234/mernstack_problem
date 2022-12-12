@@ -1,0 +1,24 @@
+#header{
+        color:#717578;
+        
+        margin-top:15%;
+        margin-left:30%;
+    }
+    #name{
+        height: 50px;
+        width:400px;
+        margin-left: 5%;
+    }
+    #button{
+    height: 50px;
+    width:400px;
+    margin-left: 5%;
+    font-size: 1.8em;
+    padding-bottom: 3%;
+    }
+    #footer{
+        color:#717578;
+        
+        font-size:  2em;
+        margin-left:30%;
+    }
